@@ -1,0 +1,3 @@
+model_checkpoint_path: "D:/picture/log/model.ckpt-999"
+all_model_checkpoint_paths: "D:/picture/log/model.ckpt-0"
+all_model_checkpoint_paths: "D:/picture/log/model.ckpt-999"
