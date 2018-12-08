@@ -4,7 +4,7 @@ from tensorflow.examples.tutorials.mnist import input_data
 #载入数据集
 mnist = input_data.read_data_sets('MNIST',one_hot=True)
 
-
+#111111111111111111111111111111111111111111
 
 
 #每个批次的大小，每次读取到神经网络的图片数量
